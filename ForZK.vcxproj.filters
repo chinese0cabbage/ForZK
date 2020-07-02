@@ -18,5 +18,22 @@
     <ClCompile Include="通讯录.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Laptop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Computer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Company.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Laptop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Desktop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

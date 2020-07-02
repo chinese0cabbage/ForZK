@@ -126,7 +126,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Laptop.cpp" />
     <ClCompile Include="通讯录.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Company.h" />
+    <ClInclude Include="Computer.h" />
+    <ClInclude Include="Desktop.h" />
+    <ClInclude Include="Laptop.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
