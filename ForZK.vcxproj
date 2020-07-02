@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="Company.h" />
     <ClInclude Include="Computer.h" />
+    <ClInclude Include="Customer.h" />
     <ClInclude Include="Desktop.h" />
     <ClInclude Include="Laptop.h" />
   </ItemGroup>

@@ -7,7 +7,7 @@ public:
 	char* name;
 	int* CreditCardNum;
 	int* Tel;
-	
+	void Buy();
 	Customer();
 	~Customer();
 
